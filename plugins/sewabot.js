@@ -13,7 +13,7 @@ let handler = async(m, { conn }) => {
 ║╭──❉ 〔 𝐕𝐈𝐀 𝐓𝐎𝐏𝐔𝐏 〕 ❉──────
 ║│➸ *Digi* : 60149431385
 ║│➸ *Umobile*: 60189830350
-║│➸ *Owner*: wa.me/6287892711054
+║│➸ *Owner*: wa.me/6282234343854
 ║╰─────────────────────
 ╰═══════════════════════`.trim()
     const button = {
@@ -26,7 +26,7 @@ let handler = async(m, { conn }) => {
         {title: '1 Bulan', description: "Rm20.00\nSewa bot 1 Bulan.", rowId:".masuk"},
         {title: 'Trial', description: "Free\nBot Free 1 Hari.", rowId:".masuk"},
         {title: 'Owner', description: "Chat owner nya jika ada perlu.", rowId:".owner"},
-        {title: 'Rules', description: "Rules Bot LynXzy.", rowId:".snk"},
+        {title: 'Rules', description: "Rules Bot Tiki.", rowId:".snk"},
        ] }],
         listType: 1
        }
